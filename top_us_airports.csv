@@ -1,0 +1,101 @@
+name,longitude,latitude,iata_code,local_code
+Hartsfield Jackson Atlanta International Airport,-84.4281,33.6367,ATL,ATL
+Dallas Fort Worth International Airport,-97.038,32.8968,DFW,DFW
+Denver International Airport,-104.6738,39.86,DEN,DEN
+Chicago O'Hare International Airport,-87.9048,41.9786,ORD,ORD
+Los Angeles International Airport,-118.408,33.9425,LAX,LAX
+John F. Kennedy International Airport,-73.7793,40.6394,JFK,JFK
+Harry Reid International Airport,-115.1518,36.0834,LAS,LAS
+Orlando International Airport,-81.309,28.4294,MCO,MCO
+Miami International Airport,-80.2898,25.796,MIA,MIA
+Charlotte Douglas International Airport,-80.9431,35.214,CLT,CLT
+Seattle–Tacoma International Airport,-122.3103,47.4479,SEA,SEA
+Phoenix Sky Harbor International Airport,-112.0059,33.4353,PHX,PHX
+Newark Liberty International Airport,-74.1705,40.6894,EWR,EWR
+San Francisco International Airport,-122.3748,37.6198,SFO,SFO
+George Bush Intercontinental Airport,-95.3414,29.9844,IAH,IAH
+Boston Logan International Airport,-71.0079,42.362,BOS,BOS
+Fort Lauderdale Hollywood International Airport,-80.1527,26.0726,FLL,FLL
+Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,-93.2217,44.8801,MSP,MSP
+LaGuardia Airport,-73.8726,40.7772,LGA,LGA
+Detroit Metropolitan Wayne County Airport,-83.3538,42.2138,DTW,DTW
+Philadelphia International Airport,-75.2411,39.8719,PHL,PHL
+Salt Lake City International Airport,-111.9799,40.7889,SLC,SLC
+Baltimore/Washington International Thurgood Marshall Airport,-76.6683,39.1754,BWI,BWI
+Ronald Reagan Washington National Airport,-77.0377,38.8521,DCA,DCA
+San Diego International Airport,-117.19,32.7336,SAN,SAN
+Washington Dulles International Airport,-77.4558,38.9445,IAD,IAD
+Tampa International Airport,-82.5332,27.9755,TPA,TPA
+Nashville International Airport,-86.6782,36.1245,BNA,BNA
+Austin Bergstrom International Airport,-97.662,30.1975,AUS,AUS
+Chicago Midway International Airport,-87.7524,41.786,MDW,MDW
+Daniel K. Inouye International Airport,-157.9257,21.3184,HNL,HNL
+Dallas Love Field,-96.8477,32.8448,DAL,DAL
+Portland International Airport,-122.598,45.5887,PDX,PDX
+St. Louis Lambert International Airport,-90.37,38.7487,STL,STL
+Raleigh-Durham International Airport,-78.7873,35.8787,RDU,RDU
+William P. Hobby Airport,-95.2768,29.6453,HOU,HOU
+Sacramento International Airport,-121.591,38.6954,SMF,SMF
+Louis Armstrong New Orleans International Airport,-90.2647,29.9934,MSY,MSY
+Mineta San Jose International Airport,-121.9292,37.3625,SJC,SJC
+San Antonio International Airport,-98.4698,29.5337,SAT,SAT
+John Wayne Orange County International Airport,-117.8693,33.6751,SNA,SNA
+Oakland San Francisco Bay Airport,-122.2212,37.7201,OAK,OAK
+Kansas City International Airport,-94.7139,39.3017,MCI,MCI
+Southwest Florida International Airport,-81.7528,26.5347,RSW,RSW
+Cleveland Hopkins International Airport,-81.8498,41.4117,CLE,CLE
+Indianapolis International Airport,-86.2944,39.7173,IND,IND
+Pittsburgh International Airport,-80.2329,40.4915,PIT,PIT
+Cincinnati Northern Kentucky International Airport,-84.6678,39.0488,CVG,CVG
+John Glenn Columbus International Airport,-82.8919,39.998,CMH,CMH
+Bradley International Airport,-72.688,41.9386,BDL,BDL
+Jacksonville International Airport,-81.6878,30.4925,JAX,JAX
+Ontario International Airport,-117.601,34.056,ONT,ONT
+Hollywood Burbank/Bob Hope Airport,-118.3581,34.2028,BUR,BUR
+General Mitchell International Airport,-87.8966,42.9472,MKE,MKE
+Albuquerque International Sunport,-106.6089,35.04,ABQ,ABQ
+Eppley Airfield,-95.8941,41.3032,OMA,OMA
+Buffalo Niagara International Airport,-78.7322,42.9405,BUF,BUF
+Charleston International Airport,-80.0382,32.8962,CHS,CHS
+Ted Stevens Anchorage International Airport,-149.9926,61.179,ANC,ANC
+Richmond International Airport,-77.3197,37.5052,RIC,RIC
+OKC Will Rogers World Airport,-97.5982,35.3934,OKC,OKC
+Boise Air Terminal/Gowen Field,-116.223,43.5644,BOI,BOI
+Reno Tahoe International Airport,-119.768,39.4991,RNO,RNO
+Frederick W. Smith International Airport,-89.9763,35.0438,MEM,MEM
+Louisville Muhammad Ali International Airport,-85.7351,38.1706,SDF,SDF
+Tucson International Airport,-110.9381,32.115,TUS,TUS
+El Paso International Airport,-106.3756,31.8099,ELP,ELP
+Rhode Island T. F. Green International Airport,-71.4257,41.725,PVD,PVD
+Norfolk International Airport,-76.201,36.8953,ORF,ORF
+Gerald R. Ford International Airport,-85.5228,42.8808,GRR,GRR
+Savannah Hilton Head International Airport,-81.2,32.1266,SAV,SAV
+Albany International Airport,-73.8017,42.7483,ALB,ALB
+Tulsa International Airport,-95.8862,36.1971,TUL,TUL
+Birmingham-Shuttlesworth International Airport,-86.7507,33.5629,BHM,BHM
+Sarasota Bradenton International Airport,-82.5544,27.3946,SRQ,SRQ
+Frederick Douglass Greater Rochester International Airport,-77.6724,43.1189,ROC,ROC
+Long Beach International Airport,-118.1499,33.8165,LGB,LGB
+Syracuse Hancock International Airport,-76.1063,43.1112,SYR,SYR
+Des Moines International Airport,-93.6567,41.534,DSM,DSM
+Spokane International Airport,-117.534,47.6199,GEG,GEG
+Pensacola International Airport,-87.1866,30.4727,PNS,PNS
+Bill & Hillary Clinton National Airport/Adams Field,-92.2236,34.7292,LIT,LIT
+Wichita Dwight D. Eisenhower National Airport,-97.4286,37.6503,ICT,ICT
+Greenville-Spartanburg International Airport,-82.2189,34.8957,GSP,GSP
+McGhee Tyson Airport,-83.994,35.811,TYS,TYS
+James M. Cox Dayton International Airport,-84.2194,39.9024,DAY,DAY
+Portland International Jetport,-70.3093,43.6462,PWM,PWM
+Piedmont Triad International Airport,-79.9373,36.0994,GSO,GSO
+Manchester-Boston Regional Airport,-71.4357,42.9326,MHT,MHT
+Orlando Sanford International Airport,-81.2346,28.7743,SFB,SFB
+St. Petersburg Clearwater International Airport,-82.6874,27.9102,PIE,PIE
+Westchester County Airport,-73.7076,41.067,HPN,HPN
+Long Island MacArthur Airport,-73.1017,40.7963,ISP,ISP
+Dane County Regional Truax Field,-89.3375,43.1399,MSN,MSN
+Blue Grass Airport,-84.6067,38.0351,LEX,LEX
+City of Colorado Springs Municipal Airport,-104.701,38.8058,COS,COS
+Fresno Yosemite International Airport,-119.718,36.7758,FAT,FAT
+Northwest Arkansas National Airport,-94.3068,36.2819,XNA,XNA
+Huntsville International Airport,-86.7744,34.6362,HSV,HSV
+Columbia Metropolitan Airport,-81.123,33.9382,CAE,CAE
